@@ -1,2 +1,3 @@
 # hello-world
-sample repo
+
+It is my first GitHub trail. I am feeling excited!
